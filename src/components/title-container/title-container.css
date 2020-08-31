@@ -1,0 +1,17 @@
+.time-left {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: solid;
+    border-width: 5px;
+    border-radius: 40px;
+    border-color: #003333;
+    width: 230px;
+    height: 139px;
+}
+
+.title-container {
+    text-align: center;
+    height: 7%
+}
